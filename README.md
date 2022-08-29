@@ -154,9 +154,7 @@ The interaction amongst various features that determine the success rate of a su
 
 3. I used accuracy score  as the metric for our model, improved the model using feature engineering and algorithm tuning.
 
-.
-
-5. This is the link to the notebook 
+ 
 ## CONCLUSION
 
 From the datasets We can conclude that:
